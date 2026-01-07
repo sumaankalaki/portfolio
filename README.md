@@ -12,11 +12,6 @@ This is a fully responsive personal portfolio website built with **Angular** and
 - Auto-deployment using CI/CD
 - Open-source and easy to clone
 
----
-
-## 🚀 Demo
-
-[Live Demo](https://gaudravi-dev.web.app)
 
 ---
 
